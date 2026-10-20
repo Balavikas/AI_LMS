@@ -1,0 +1,12 @@
+# We are going to create an LMS web application using REACT
+-- create a Homepage using REACT
+-- Install using NPX Command
+-- Maintain REACT coding principles, Guidelines and design patterns
+-- create a Single page application
+-- The page should have Header and footer, The header and footer should be reusuable for all the other pages
+-- The Homepage should have a navbar with the following options:
+    -- Home
+    -- courses
+    -- Registrations
+    -- Contact
+    -- Instructor
